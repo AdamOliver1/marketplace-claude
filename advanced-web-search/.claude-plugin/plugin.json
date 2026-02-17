@@ -1,0 +1,9 @@
+{
+  "name": "advanced-web-search",
+  "description": "Tiered web search skills for Claude Code — Gemini CLI search (Tier 2) and multi-source deep search with Gemini + Perplexity (Tier 3), with graceful degradation when backends are unavailable.",
+  "version": "1.0.0",
+
+  "license": "MIT",
+  "keywords": ["search", "web-search", "gemini", "perplexity", "research", "deep-search"],
+  "repository": "https://github.com/AdamOliver1/marketplace-claude"
+}

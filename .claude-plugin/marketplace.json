@@ -1,0 +1,24 @@
+{
+  "name": "adamoliver1-plugins",
+  "owner": {
+    "name": "AdamOliver1"
+  },
+  "metadata": {
+    "description": "Claude Code plugins by AdamOliver1",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "advanced-web-search",
+      "source": "./advanced-web-search",
+      "description": "Tiered web search skills for Claude Code — Gemini CLI search (Tier 2) and multi-source deep search with Gemini + Perplexity (Tier 3), with graceful degradation when backends are unavailable.",
+      "version": "1.0.0",
+      "author": {
+        "name": "AdamOliver1"
+      },
+      "repository": "https://github.com/AdamOliver1/marketplace-claude",
+      "license": "MIT",
+      "keywords": ["search", "web-search", "gemini", "perplexity", "research", "deep-search"]
+    }
+  ]
+}
