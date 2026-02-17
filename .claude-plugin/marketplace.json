@@ -1,10 +1,10 @@
 {
   "name": "adamoliver1-plugins",
   "owner": {
-    "name": "AdamOliver1"
+    "name": "Adam Oliver"
   },
   "metadata": {
-    "description": "Claude Code plugins by AdamOliver1",
+    "description": "Claude Code plugins by Adam Oliver",
     "version": "1.0.0"
   },
   "plugins": [
