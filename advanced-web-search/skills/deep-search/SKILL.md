@@ -7,6 +7,10 @@ description: "Tier 3 multi-source web search — queries Gemini and Perplexity i
 
 Query: $ARGUMENTS
 
+## Query Formulation
+
+Read and follow `../shared/QUERY-FORMULATION.md` before constructing any search query. Use the same condensed query for both Gemini and Perplexity.
+
 ## Workflow
 
 ### Step 0: Check Backend Availability

@@ -7,6 +7,10 @@ description: "Standard web search via Gemini CLI — Tier 2 in the search hierar
 
 Query: $ARGUMENTS
 
+## Query Formulation
+
+Read and follow `../shared/QUERY-FORMULATION.md` before constructing any search query.
+
 ## Availability Check
 
 Before running gemini, verify it's installed:
